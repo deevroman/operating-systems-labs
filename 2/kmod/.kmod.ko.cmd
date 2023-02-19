@@ -1,1 +1,0 @@
-cmd_/home/rd/2/procfs-kernek-module/kmod/kmod.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/rd/2/procfs-kernek-module/kmod/kmod.ko /home/rd/2/procfs-kernek-module/kmod/kmod.o /home/rd/2/procfs-kernek-module/kmod/kmod.mod.o;  true
