@@ -35,6 +35,8 @@
     Использование утилиты strace, ltrace, bpftrace;
     Профилирование и построение flamegraph'а и stap;
 
+p.s. FlameGraph необязателен, но разобраться с ним полезно.
+
 Лабораторная работа №2
 
 Вариант procfs: cpu_itimer, syscall_info
